@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### My Personal Website!
+My personal website displaying my resume, past projects/research, and other background information!
 <!--
 **Elizabeth137/Elizabeth137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
